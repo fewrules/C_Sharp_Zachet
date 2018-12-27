@@ -1,0 +1,14 @@
+C:\Users\Anton\source\repos\Squares\Squares.DAL\bin\Debug\Squares.DAL.dll.config
+C:\Users\Anton\source\repos\Squares\Squares.DAL\bin\Debug\Squares.DAL.dll
+C:\Users\Anton\source\repos\Squares\Squares.DAL\bin\Debug\Squares.DAL.pdb
+C:\Users\Anton\source\repos\Squares\Squares.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Anton\source\repos\Squares\Squares.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anton\source\repos\Squares\Squares.DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\Anton\source\repos\Squares\Squares.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Anton\source\repos\Squares\Squares.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anton\source\repos\Squares\Squares.DAL\bin\Debug\Google.Protobuf.xml
+C:\Users\Anton\source\repos\Squares\Squares.DAL\obj\Debug\Squares.DAL.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\Squares\Squares.DAL\obj\Debug\Squares.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\Squares\Squares.DAL\obj\Debug\Squares.DAL.csproj.CopyComplete
+C:\Users\Anton\source\repos\Squares\Squares.DAL\obj\Debug\Squares.DAL.dll
+C:\Users\Anton\source\repos\Squares\Squares.DAL\obj\Debug\Squares.DAL.pdb
